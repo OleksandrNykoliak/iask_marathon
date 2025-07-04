@@ -1,0 +1,16 @@
+*__pycache__*
+*venv*
+*.db
+*.mo
+*.coverage
+*/logs/*
+*.xml
+*.log
+*/tmp/*
+*core*
+.idea
+*jsdoc_build*
+/HEMC/app/static/maps/
+.vscode
+
+.ruff_cache
